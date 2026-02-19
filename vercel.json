@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/bfs", "destination": "/api/bfs" },
-    { "source": "/graphical", "destination": "/api/graphical" }
+    { "source": "/Q1", "destination": "/api/Q1" },
+    { "source": "/Q2", "destination": "/api/Q2" }
   ]
 }
